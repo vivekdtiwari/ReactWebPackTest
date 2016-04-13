@@ -4,8 +4,8 @@
   "description": "Testing react,webpack,babel",
   "main": "index.js",
   "scripts": {
-    "production" : "webpack -p",
-    "start" : "webpack-dev-server"
+    "production": "webpack -p",
+    "start": "webpack-dev-server"
   },
   "repository": {
     "type": "git",
@@ -25,7 +25,8 @@
   "homepage": "https://github.com/vivekdtiwari/ReactWebPackTest#readme",
   "dependencies": {
     "react": "^15.0.1",
-    "react-dom": "^15.0.1"
+    "react-dom": "^15.0.1",
+    "react-router": "^2.1.1"
   },
   "devDependencies": {
     "babel-core": "^6.7.6",
